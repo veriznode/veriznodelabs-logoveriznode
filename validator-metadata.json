@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~KjE2MS9uTeM-suut7wxOIoKDalF_UO2kCW3dES_EMAOnOJnD53hSQZno7SW0vq1LkmO9cIa13t5J0bzYVl7DCCnEBIIINzwh2czoLhhwIEr2BypinQ80hpDz-9tUzkAj2RoQl0PuF_aKZCNWNITiVKgWgabC2A3GLeT9pyVIcZ2V",
+  "name": "Veriznode-Labs",
+  "description": "Precise Validation, Guaranteed Results",
+  "company_name": "Veriznode-Labs",
+  "company_website": "https://www.veriznode.xyz",
+  "client_version": "1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/veriznode/veriznodelabs-logoveriznode/refs/heads/main/veriz.png",
+      "@2x": "https://raw.githubusercontent.com/veriznode/veriznodelabs-logoveriznode/refs/heads/main/veriz.png",
+      "@3x": "https://raw.githubusercontent.com/veriznode/veriznodelabs-logoveriznode/refs/heads/main/veriz.png"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/veriznode/veriznodelabs-logoveriznode/refs/heads/main/veriz.png",
+      "@2x": "https://raw.githubusercontent.com/veriznode/veriznodelabs-logoveriznode/refs/heads/main/veriz.png",
+      "@3x": "https://raw.githubusercontent.com/veriznode/veriznodelabs-logoveriznode/refs/heads/main/veriz.png"
+    }
+  }
+}
